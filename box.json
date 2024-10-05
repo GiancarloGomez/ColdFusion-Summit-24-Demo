@@ -1,0 +1,10 @@
+{
+    "dependencies":{
+        "advancedsocket":"^2.0.0",
+        "coldfusion-websockets-console":"^1.0.0"
+    },
+    "installPaths":{
+        "advancedsocket":"advancedsocket/",
+        "coldfusion-websockets-console":"console/"
+    }
+}

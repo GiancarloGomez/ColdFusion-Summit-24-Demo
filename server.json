@@ -1,0 +1,14 @@
+{
+    "name":"ws-demo-2023",
+    "trayEnable":true,
+    "trayicon":"assets/app.png",
+    "dockEnable":false,
+    "profile":"development",
+    "app":{
+        "cfengine":"adobe@2023.0.10+330680"
+    },
+    "jvm":{
+        "heapSize":"512",
+        "minHeapSize":"512"
+    }
+}
